@@ -37,9 +37,9 @@
     </issueManagement>
 
     <scm>
-        <url>git@github.com:sourcesense/maven-skin.git</url>
-        <connection>scm:git:git@github.com:sourcesense/maven-skin.git</connection>
-        <developerConnection>scm:git:git@github.com:sourcesense/maven-skin.git</developerConnection>
+        <url>http://github.com/sourcesense/maven-skin</url>
+        <connection>scm:git:ssh://github.com/sourcesense/maven-skin.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/sourcesense/maven-skin.git</developerConnection>
     </scm>
 
     <build>
