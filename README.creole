@@ -1,0 +1,22 @@
+== Introduction ==
+
+This is an alternative Sourcesense branded Maven site skin with rounded corners and code syntax highlight.
+
+== Usage ==
+
+Using it it's quite easy: it is available on Maven central repository and all you need is just add the following XML
+snippet in your {{{site.xml}}}:
+
+{{{
+<project name="XXXXXXXX">
+    ....
+    <skin>
+        <groupId> com.sourcesense.maven</groupId>
+        <artifactId>maven-skin</artifactId>
+        <version>1.0.0</version>
+    </skin>
+    ....
+</project>
+}}} 
+
+That's all, have fun with it! :)
