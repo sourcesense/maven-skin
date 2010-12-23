@@ -30,6 +30,7 @@
     <name>Sourcesense Skin</name>
     <description>An alternative Maven site skin with rounded corners and code syntax highlight, Sourcesense branded.</description>
     <inceptionYear>2010</inceptionYear>
+    <url>http://github.com/sourcesense/maven-skin</url>
 
     <issueManagement>
         <system>GitHub Issue tracker</system>
