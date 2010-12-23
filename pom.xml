@@ -26,7 +26,7 @@
     <groupId> com.sourcesense.maven</groupId>
     <artifactId>maven-skin</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>Sourcesense Skin</name>
     <description>An alternative Maven site skin with rounded corners and code syntax highlight, Sourcesense branded.</description>
     <inceptionYear>2010</inceptionYear>
